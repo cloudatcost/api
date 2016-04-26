@@ -22,6 +22,7 @@ https://panel.cloudatcost.com/api/v1/
 - .NET - https://github.com/mirhagk/CloudAtCostAPI
 - PHP - https://github.com/fdisotto/cac-api
 - Ruby - https://github.com/cloudatcost/ruby-gem
+- Bash - https://github.com/tonejito/cac-api-bash
 
 # Community mobile applications
 - Android/iOS by Andreas Gassmann
