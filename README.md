@@ -165,64 +165,64 @@ Output:
     "time": 1425326406,
     "data": [
     {
-      "id": "26",
-      "detail": "CentOS-7-64bit"
+      "ce_id": "26",
+      "name": "CentOS-7-64bit"
     },
     {
-      "id": "27",
-      "detail": "Ubuntu-14.04.1-LTS-64bit"
+      "ce_id": "27",
+      "name": "Ubuntu-14.04.1-LTS-64bit"
     },
     {
-      "id": "15",
-      "detail": "CentOS 6.5 64bit (LAMP)"
+      "ce_id": "15",
+      "name": "CentOS 6.5 64bit (LAMP)"
     },
     {
-      "id": "21",
-      "detail": "Ubuntu 12.10 64bit"
+      "ce_id": "21",
+      "name": "Ubuntu 12.10 64bit"
     },
     {
-      "id": "23",
-      "detail": "Ubuntu 12.04.3 LTS 64bit"
+      "ce_id": "23",
+      "name": "Ubuntu 12.04.3 LTS 64bit"
     },
     {
-      "id": "24",
-      "detail": "Windows 2008 R2 64bit (BigDogs Only)"
+      "ce_id": "24",
+      "name": "Windows 2008 R2 64bit (BigDogs Only)"
     },
     {
-      "id": "25",
-      "detail": "Windows 2012 R2 64bit (BigDogs Only)"
+      "ce_id": "25",
+      "name": "Windows 2012 R2 64bit (BigDogs Only)"
     },
     {
-      "id": "14",
-      "detail": "CentOS 6.5 64bit (cPanel-WHM)"
+      "ce_id": "14",
+      "name": "CentOS 6.5 64bit (cPanel-WHM)"
     },
     {
-      "id": "13",
-      "detail": "CentOS 6.5 64bit"
+      "ce_id": "13",
+      "name": "CentOS 6.5 64bit"
     },
     {
-      "id": "10",
-      "detail": "CentOS 6.5 32bit"
+      "ce_id": "10",
+      "name": "CentOS 6.5 32bit"
     },
     {
-      "id": "3",
-      "detail": "Debian 7.1 64bit"
+      "ce_id": "3",
+      "name": "Debian 7.1 64bit"
     },
     {
-      "id": "9",
-      "detail": "Windows7 64bit (BigDogs Only)"
+      "ce_id": "9",
+      "name": "Windows7 64bit (BigDogs Only)"
     },
     {
-      "id": "2",
-      "detail": "Ubuntu-13.10-64bit"
+      "ce_id": "2",
+      "name": "Ubuntu-13.10-64bit"
     },
     {
-      "id": "1",
-      "detail": "CentOS 6.4 64bit"
+      "ce_id": "1",
+      "name": "CentOS 6.4 64bit"
     },
     {
-      "id": "28",
-      "detail": "Minecraft-CentOS-7-64bit"
+      "ce_id": "28",
+      "name": "Minecraft-CentOS-7-64bit"
     }
   ]
 }
